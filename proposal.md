@@ -38,6 +38,6 @@ CUU:                  1. Registrar cliente
                       4. Registar alquiler
                       
 
-
+ 
 
 
